@@ -1,0 +1,20 @@
+Title: Senior Python Engineer
+
+Role Overview:
+We are looking for a Senior Python Engineer to design and build scalable microservices and data pipelines. You will collaborate closely with product management and front-end teams to deliver robust software solutions.
+
+Key Responsibilities:
+- Design, develop, and maintain clean, efficient, and testable Python code.
+- Architect high-throughput microservices using FastAPI, Django, and async programming paradigms (asyncio, Celery).
+- Optimize database schemas and query performance in PostgreSQL and Redis.
+- Implement containerized workflows using Docker and deploy to Kubernetes clusters.
+- Establish CI/CD pipelines (GitHub Actions, GitLab CI) and automate deployment processes.
+- Lead code reviews, advocate for best practices, and mentor junior and mid-level developers.
+
+Required Qualifications:
+- 5+ years of professional software engineering experience.
+- Deep expertise in Python core principles, async programming, and OOP.
+- Hands-on experience with FastAPI, Django, or Flask.
+- Robust understanding of PostgreSQL, indexing, and query optimization.
+- Familiarity with containerization (Docker, Kubernetes) and cloud services (AWS or GCP).
+- Experience with microservices architecture, system design, and event-driven architectures (Kafka, RabbitMQ).

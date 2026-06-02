@@ -1,0 +1,14 @@
+Senior Python Developer
+
+Required Skills:
+- Python
+- FastAPI
+- Docker
+- Kubernetes
+- AWS
+- REST APIs
+
+Responsibilities:
+- Build scalable backend systems.
+- Deploy cloud-native applications.
+- Design microservices.
